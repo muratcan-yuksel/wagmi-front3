@@ -1,0 +1,1 @@
+(self.webpackChunkwagmi_deployment_3=self.webpackChunkwagmi_deployment_3||[]).push([[563],{6563:function(){}}]);
