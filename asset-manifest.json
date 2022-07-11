@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wagmi-front3/static/css/main.c5c8d8bd.css",
-    "main.js": "/wagmi-front3/static/js/main.7350bd85.js",
+    "main.js": "/wagmi-front3/static/js/main.e6688a6b.js",
     "static/js/27.fa105d9a.chunk.js": "/wagmi-front3/static/js/27.fa105d9a.chunk.js",
     "static/js/563.763bfc2f.chunk.js": "/wagmi-front3/static/js/563.763bfc2f.chunk.js",
     "static/js/787.97acd319.chunk.js": "/wagmi-front3/static/js/787.97acd319.chunk.js",
@@ -9,13 +9,13 @@
     "static/js/163.c8f181aa.chunk.js": "/wagmi-front3/static/js/163.c8f181aa.chunk.js",
     "index.html": "/wagmi-front3/index.html",
     "main.c5c8d8bd.css.map": "/wagmi-front3/static/css/main.c5c8d8bd.css.map",
-    "main.7350bd85.js.map": "/wagmi-front3/static/js/main.7350bd85.js.map",
+    "main.e6688a6b.js.map": "/wagmi-front3/static/js/main.e6688a6b.js.map",
     "787.97acd319.chunk.js.map": "/wagmi-front3/static/js/787.97acd319.chunk.js.map",
     "419.68e2f0be.chunk.js.map": "/wagmi-front3/static/js/419.68e2f0be.chunk.js.map",
     "163.c8f181aa.chunk.js.map": "/wagmi-front3/static/js/163.c8f181aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5c8d8bd.css",
-    "static/js/main.7350bd85.js"
+    "static/js/main.e6688a6b.js"
   ]
 }
